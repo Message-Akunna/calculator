@@ -190,4 +190,9 @@ html {
     grid-row: 2 / span 4;
     color: aliceblue;
   }
+
+  footer{
+    text-align: center;
+    padding: 20px;
+  }
   
